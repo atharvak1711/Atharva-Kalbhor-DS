@@ -41,5 +41,3 @@ cout<<"\nbook title: "<<title3;
 
 return 0;
 }
-
-
